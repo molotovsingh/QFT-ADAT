@@ -26,3 +26,6 @@
 - Incorporates features for efficient sharing and collaboration, allowing users to exchange insights and strategies on F&O stocks in real time.
 
 This screener is specifically crafted to navigate the complexities of the F&O market, offering users a robust tool for screening and analyzing stocks based on a wide range of parameters and real-time data.
+### Access 
+To access the screener please - https://docs.google.com/spreadsheets/d/1FqX8j3dCfkFAlwvvzvrnryHeSQoTNCcn79JnrzNnQl8/edit#gid=1330037570
+
