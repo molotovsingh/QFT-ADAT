@@ -27,5 +27,5 @@
 
 This screener is specifically crafted to navigate the complexities of the F&O market, offering users a robust tool for screening and analyzing stocks based on a wide range of parameters and real-time data.
 ### Access 
-To access the screener please - https://docs.google.com/spreadsheets/d/1FqX8j3dCfkFAlwvvzvrnryHeSQoTNCcn79JnrzNnQl8/edit#gid=1330037570
+To access the screener please - https://docs.google.com/spreadsheets/d/1g5rPuG-UnVFu9QW3AoPurcSGBYlVg9oryXxpHr9AckE/edit#gid=0
 
